@@ -118,5 +118,7 @@ Built by **Shaun** — AI Automation Architect at [Synelium](https://synelium.co
 
 Synelium designs and deploys AI-powered automation infrastructure for mid-market companies. Boardroom OS is the flagship product — an agent orchestration platform that embeds AI into every executive function.
 
-→ More projects: [github.com/yourusername](https://github.com/yourusername)  
-→ Connect: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+→ More projects:(https://github.com/Sfraley87)  
+→ Connect: www.linkedin.com/in/shaun-fraley-41a0b9132
+
+
